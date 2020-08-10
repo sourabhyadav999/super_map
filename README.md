@@ -1,5 +1,5 @@
 # super_map
-super_map is an array like standard template library having O(1) searching time even if element is present in multiple indexes.
+super_map is an array/vector like standard template library dynamic size data structure with access to random memory possible having O(1) searching time even if element is present in multiple indexes.
 # Functios
 ## insert(value)
 This function is used to insert the value in the super_map. It is O(1).
